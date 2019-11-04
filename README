@@ -1,0 +1,11 @@
+mf0301
+CSCE4430
+README
+
+Directions for compilation:
+Consult file in GNU or SWI
+Ensure lambda library is installed with the following command in either program:
+?- pack_install(lambda) 
+
+run program with following command:
+?- solve.
